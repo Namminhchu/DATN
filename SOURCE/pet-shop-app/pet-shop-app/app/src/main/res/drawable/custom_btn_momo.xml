@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+
+    <!-- Gradient for the button background -->
+    <gradient
+        android:startColor="#FF5B5B"
+        android:centerColor="#FF2929"
+        android:angle="90"
+    />
+
+    <!-- Corner radius for rounded corners -->
+    <corners android:radius="30dp" />
+
+</shape>
